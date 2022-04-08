@@ -20,13 +20,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg"   title="Xd" alt="Xd"  width="30px" style="padding-right: 1%;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"    title="Bootstrap" alt="Bootstrap"  width="30px" style="padding-right: 1%;"/>
  </div>
+ <br>
 
 <a href="https://github.com/dhamario/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhamario&count_private=true&show_icons=true&theme=algolia" />
 </a>
 
 
-<br><br>
+<br>
 
  <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhamario&layout=compact&langs_count=6&theme=tokyonight" />
